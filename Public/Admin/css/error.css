@@ -1,0 +1,18 @@
+.error_body{
+    background: #ffffff url("../images/errors.png") no-repeat fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.error_tip{
+    display: block;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+}
+.error_go{
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}

@@ -1,0 +1,33 @@
+[ 2016-07-20T19:36:50+08:00 ] 127.0.0.1 /Admin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./application/Admin/View/Index/index.html
+
+[ 2016-07-20T19:55:36+08:00 ] 127.0.0.1 /Admin/Public/css/style.css
+ERR: 非法操作:css
+
+[ 2016-07-20T19:55:36+08:00 ] 127.0.0.1 /Admin/Public/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-07-20T19:55:36+08:00 ] 127.0.0.1 /Admin/Public/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-07-20T19:55:37+08:00 ] 127.0.0.1 /Admin/Public/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-20T19:55:37+08:00 ] 127.0.0.1 /Admin/Public/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-07-20T19:55:37+08:00 ] 127.0.0.1 /Admin/Public/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-07-20T19:55:37+08:00 ] 127.0.0.1 /Admin/Public/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-07-20T19:58:35+08:00 ] 127.0.0.1 /Admin/Public/U('Public/dologin')?email=
+ERR: 非法操作:u('public
+
+[ 2016-07-20T20:35:28+08:00 ] 127.0.0.1 /Admin/Public/dologin
+ERR: 模板不存在:./application/Admin/View/Public/400.html
+
